@@ -69,8 +69,6 @@ npm start
 
 It is time to double-click on the `index.html` and check that the new average function is up and running and has been included in the `bundle.js` file.
 
-![running webpack 4](../../99%20Readme%20Resources/00%20Intro/01%20Import/result.png)
-
 ## Appendix - Module alternative usage
 
 We have covered a single named export usage in our previous example, but there are some other ways to use modules:
