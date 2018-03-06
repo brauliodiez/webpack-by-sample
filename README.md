@@ -1,5 +1,5 @@
 # Webpack by sample
-
+trying to make a conflict
 Learn webpack by sample, each of the samples contains a `readme.md` file that
 indicates the purpose of the sample plus an step by step guide to reproduce it.
 
